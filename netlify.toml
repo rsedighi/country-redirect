@@ -5,3 +5,25 @@
   force = true
   conditions = {Country = ["us"]}
 
+[[redirects]]
+  from = "/"
+  to = "/index-uk"
+  status = 301
+  force = true
+  conditions = {Country = ["gb"]}
+
+[[redirects]]
+  from = "/"
+  to = "/index-fr"
+  status = 301
+  force = true
+  conditions = {Country = ["fr"]}
+
+[[redirects]]
+  from = "/"
+  to = "/index-it"
+  status = 301
+  force = true
+  conditions = {Country = ["it"]}
+
+
