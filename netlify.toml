@@ -1,9 +1,16 @@
 [[redirects]]
   from = "/"
-  to = "/index-de"
+  to = "/index-us"
   status = 301
   force = true
   conditions = {Country = ["us"]}
+
+[[redirects]]
+  from = "/"
+  to = "/index-de"
+  status = 301
+  force = true
+  conditions = {Country = ["de"]}
 
 [[redirects]]
   from = "/"
