@@ -392,10 +392,11 @@ input, select, textarea {
 		}
 	}
 
-	#bg {
+	#bg-it {
 		background-size: 2250px auto;
 		width: 6750px;
 
+	}
 	#bg {
 		-moz-animation: bg 60s linear infinite;
 		-webkit-animation: bg 60s linear infinite;
