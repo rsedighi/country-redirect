@@ -50,3 +50,11 @@
   conditions = {Country = ["mx"]}
 
 
+[[redirects]]
+  from = "/"
+  to = "/index-in"
+  status = 301
+  force = true
+  conditions = {Country = ["in"]}
+
+
