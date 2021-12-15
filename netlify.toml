@@ -34,3 +34,12 @@
   conditions = {Country = ["it"]}
 
 
+[[redirects]]
+  from = "/"
+  to = "/index-ca"
+  status = 301
+  force = true
+  conditions = {Country = ["ca"]}
+
+
+
