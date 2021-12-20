@@ -57,4 +57,9 @@
   force = true
   conditions = {Country = ["in"]}
 
-
+[[redirects]]
+  from = "bodybuilding"
+  to = "https://bodybuilding.com"
+  status = 200
+  force = true
+  
