@@ -1,4 +1,11 @@
 [[redirects]]
+  from = "/bodybuilding"
+  to = "https://bodybuilding.com"
+  status = 200
+  force = true
+
+
+[[redirects]]
   from = "/"
   to = "/index-us"
   status = 301
